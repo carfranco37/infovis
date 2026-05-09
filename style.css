@@ -52,6 +52,6 @@ img {
 }
 
 .flourish-embed {
-    width: 100%;
-    min-height: 750px;
+    max-width: 1000px;
+    margin: auto;
 }
